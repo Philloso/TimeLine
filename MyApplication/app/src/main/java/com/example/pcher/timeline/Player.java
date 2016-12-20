@@ -4,6 +4,7 @@ package com.example.pcher.timeline;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 
+ // players is made here
 
 public class Player extends GameObject {
     private Bitmap spritesheet;
